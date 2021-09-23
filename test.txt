@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 hel
 world
 task2
 jh
+=======
+hello
+>>>>>>> parent of 7a9d9d0... my second commit
