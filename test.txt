@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 kjhgf
+=======
+hello
+>>>>>>> parent of 7a9d9d0... my second commit
